@@ -1,0 +1,39 @@
+tipo_user;habilidades;segmento;horas_disponiveis
+startup;python,php,js,scrum;fintech;6
+user;python,js,illustrator;edtech;8
+startup;laravel, php, js, html;biotech;4
+startup;scrum,laravel,angular,html;adtech;6
+startup;js,html,css;adtech;8
+startup;js,angular,ionic,html,css;fintech;4
+startup;php,laravel,scrum,js,html;fintech;4
+user;js,angular,ionic,html,css;edtech;5
+startup;js,html,css, illustrator;edtech;5
+startup;scrum,laravel,angular,html;healthtech;8
+user;ionic,js,html,css,scss;healthtech;6
+user;js,angular,ionic,html;edtech;6
+user;big-data,machine-learning,python;fintech;4
+user;scikit-learn,python,html,js;fintech;8
+user;laravel, php, js, css,html;fintech;6
+user;machine-learning, ionic, js, php;adtech;6
+user;ionic,js,html,css,scss,angular;adtech;6
+user;angular,js,html,css, illustrator;edtech;6
+user;python,php,js,html,css;edtech;4
+user;js,html,css,ionic,photoshop;edtech;4
+startup;big-data,machine-learning,python;biotech;4
+startup;big-data,machine-learning,python;biotech;4
+startup;scikit-learn,python,html,js;healthtech;8
+startup;angular,js,html,css;adtech;4
+startup;ionic,js,html,css,scss;biotech;6
+startup;scikit-learn,python,html,js;healthtech;8
+user;python,php,js,html,css,scikit-learn;healthtech;4
+user;big-data,machine-learning,scikit-learn;healthtech;8
+user;html, php, python,css;biotech;4
+startup;ionic,angular,js,html,css;biotech;4
+startup;js,html,css,ionic;adtech;4
+startup;big-data,machine-learning,python;fintech;5
+startup;python,php,js,html,css,scikit-learn;fintech;5
+startup;scikit-learn,python,html,js;edtech;6
+startup;html, css, photoshop, illustrator;healthtech;6
+user;ionic,angular,js,html,css;healthtech;8
+user;python, html,scikit-learn,machine-learning;healthtech;8
+user;photoshop, illustrator, html, css;biotech;4
