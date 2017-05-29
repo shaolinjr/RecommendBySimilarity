@@ -1,229 +1,229 @@
 [
   {
     "tipo_user": "startup",
-    "habilidades": "python,php,js,scrum",
+    "habilidades": ["python","php","js","scrum"],
     "segmento": "fintech",
     "horas_disponiveis": 6
   },
   {
     "tipo_user": "user",
-    "habilidades": "python,js,illustrator",
+    "habilidades": ["python","js","illustrator"],
     "segmento": "edtech",
     "horas_disponiveis": 8
   },
   {
     "tipo_user": "startup",
-    "habilidades": "laravel, php, js, html",
+    "habilidades": ["laravel", "php", "js", "html"],
     "segmento": "biotech",
     "horas_disponiveis": 4
   },
   {
     "tipo_user": "startup",
-    "habilidades": "scrum,laravel,angular,html",
+    "habilidades": ["scrum","laravel","angular","html"],
     "segmento": "adtech",
     "horas_disponiveis": 6
   },
   {
     "tipo_user": "startup",
-    "habilidades": "js,html,css",
+    "habilidades": ["js","html","css"],
     "segmento": "adtech",
     "horas_disponiveis": 8
   },
   {
     "tipo_user": "startup",
-    "habilidades": "js,angular,ionic,html,css",
+    "habilidades": ["js","angular","ionic","html","css"],
     "segmento": "fintech",
     "horas_disponiveis": 4
   },
   {
     "tipo_user": "startup",
-    "habilidades": "php,laravel,scrum,js,html",
+    "habilidades": ["php","laravel","scrum","js","html"],
     "segmento": "fintech",
     "horas_disponiveis": 4
   },
   {
     "tipo_user": "user",
-    "habilidades": "js,angular,ionic,html,css",
+    "habilidades": ["js","angular","ionic","html","css"],
     "segmento": "edtech",
     "horas_disponiveis": 5
   },
   {
     "tipo_user": "startup",
-    "habilidades": "js,html,css, illustrator",
+    "habilidades": ["js","html","css", "illustrator"],
     "segmento": "edtech",
     "horas_disponiveis": 5
   },
   {
     "tipo_user": "startup",
-    "habilidades": "scrum,laravel,angular,html",
+    "habilidades": ["scrum","laravel","angular","html"],
     "segmento": "healthtech",
     "horas_disponiveis": 8
   },
   {
     "tipo_user": "user",
-    "habilidades": "ionic,js,html,css,scss",
+    "habilidades": ["ionic","js","html","css","scss"],
     "segmento": "healthtech",
     "horas_disponiveis": 6
   },
   {
     "tipo_user": "user",
-    "habilidades": "js,angular,ionic,html",
+    "habilidades": ["js","angular","ionic","html"],
     "segmento": "edtech",
     "horas_disponiveis": 6
   },
   {
     "tipo_user": "user",
-    "habilidades": "big-data,machine-learning,python",
+    "habilidades": ["big-data","machine-learning","python"],
     "segmento": "fintech",
     "horas_disponiveis": 4
   },
   {
     "tipo_user": "user",
-    "habilidades": "scikit-learn,python,html,js",
+    "habilidades": ["scikit-learn","python","html","js"],
     "segmento": "fintech",
     "horas_disponiveis": 8
   },
   {
     "tipo_user": "user",
-    "habilidades": "laravel, php, js, css,html",
+    "habilidades": ["laravel", "php", "js", "css","html"],
     "segmento": "fintech",
     "horas_disponiveis": 6
   },
   {
     "tipo_user": "user",
-    "habilidades": "machine-learning, ionic, js, php",
+    "habilidades": ["machine-learning", "ionic", "js", "php"],
     "segmento": "adtech",
     "horas_disponiveis": 6
   },
   {
     "tipo_user": "user",
-    "habilidades": "ionic,js,html,css,scss,angular",
+    "habilidades": ["ionic","js","html","css","scss","angular"],
     "segmento": "adtech",
     "horas_disponiveis": 6
   },
   {
     "tipo_user": "user",
-    "habilidades": "angular,js,html,css, illustrator",
+    "habilidades": ["angular","js","html","css", "illustrator"],
     "segmento": "edtech",
     "horas_disponiveis": 6
   },
   {
     "tipo_user": "user",
-    "habilidades": "python,php,js,html,css",
+    "habilidades": ["python","php","js","html","css"],
     "segmento": "edtech",
     "horas_disponiveis": 4
   },
   {
     "tipo_user": "user",
-    "habilidades": "js,html,css,ionic,photoshop",
+    "habilidades": ["js","html","css","ionic","photoshop"],
     "segmento": "edtech",
     "horas_disponiveis": 4
   },
   {
     "tipo_user": "startup",
-    "habilidades": "big-data,machine-learning,python",
+    "habilidades": ["big-data","machine-learning","python"],
     "segmento": "biotech",
     "horas_disponiveis": 4
   },
   {
     "tipo_user": "startup",
-    "habilidades": "big-data,machine-learning,python",
+    "habilidades": ["big-data","machine-learning","python"],
     "segmento": "biotech",
     "horas_disponiveis": 4
   },
   {
     "tipo_user": "startup",
-    "habilidades": "scikit-learn,python,html,js",
+    "habilidades": ["scikit-learn","python","html","js"],
     "segmento": "healthtech",
     "horas_disponiveis": 8
   },
   {
     "tipo_user": "startup",
-    "habilidades": "angular,js,html,css",
+    "habilidades": ["angular","js","html","css"],
     "segmento": "adtech",
     "horas_disponiveis": 4
   },
   {
     "tipo_user": "startup",
-    "habilidades": "ionic,js,html,css,scss",
+    "habilidades": ["ionic","js","html","css","scss"],
     "segmento": "biotech",
     "horas_disponiveis": 6
   },
   {
     "tipo_user": "startup",
-    "habilidades": "scikit-learn,python,html,js",
+    "habilidades": ["scikit-learn","python","html","js"],
     "segmento": "healthtech",
     "horas_disponiveis": 8
   },
   {
     "tipo_user": "user",
-    "habilidades": "python,php,js,html,css,scikit-learn",
+    "habilidades": ["python","php","js","html","css","scikit-learn"],
     "segmento": "healthtech",
     "horas_disponiveis": 4
   },
   {
     "tipo_user": "user",
-    "habilidades": "big-data,machine-learning,scikit-learn",
+    "habilidades": ["big-data","machine-learning","scikit-learn"],
     "segmento": "healthtech",
     "horas_disponiveis": 8
   },
   {
     "tipo_user": "user",
-    "habilidades": "html, php, python,css",
+    "habilidades": ["html", "php", "python","css"],
     "segmento": "biotech",
     "horas_disponiveis": 4
   },
   {
     "tipo_user": "startup",
-    "habilidades": "ionic,angular,js,html,css",
+    "habilidades": ["ionic","angular","js","html","css"],
     "segmento": "biotech",
     "horas_disponiveis": 4
   },
   {
     "tipo_user": "startup",
-    "habilidades": "js,html,css,ionic",
+    "habilidades": ["js","html","css","ionic"],
     "segmento": "adtech",
     "horas_disponiveis": 4
   },
   {
     "tipo_user": "startup",
-    "habilidades": "big-data,machine-learning,python",
+    "habilidades": ["big-data","machine-learning","python"],
     "segmento": "fintech",
     "horas_disponiveis": 5
   },
   {
     "tipo_user": "startup",
-    "habilidades": "python,php,js,html,css,scikit-learn",
+    "habilidades": ["python","php","js","html","css","scikit-learn"],
     "segmento": "fintech",
     "horas_disponiveis": 5
   },
   {
     "tipo_user": "startup",
-    "habilidades": "scikit-learn,python,html,js",
+    "habilidades": ["scikit-learn","python","html","js"],
     "segmento": "edtech",
     "horas_disponiveis": 6
   },
   {
     "tipo_user": "startup",
-    "habilidades": "html, css, photoshop, illustrator",
+    "habilidades": ["html", "css", "photoshop", "illustrator"],
     "segmento": "healthtech",
     "horas_disponiveis": 6
   },
   {
     "tipo_user": "user",
-    "habilidades": "ionic,angular,js,html,css",
+    "habilidades": ["ionic","angular","js","html","css"],
     "segmento": "healthtech",
     "horas_disponiveis": 8
   },
   {
     "tipo_user": "user",
-    "habilidades": "python, html,scikit-learn,machine-learning",
+    "habilidades": ["python", "html","scikit-learn","machine-learning"],
     "segmento": "healthtech",
     "horas_disponiveis": 8
   },
   {
     "tipo_user": "user",
-    "habilidades": "photoshop, illustrator, html, css",
+    "habilidades": ["photoshop", "illustrator", "html", "css"],
     "segmento": "biotech",
     "horas_disponiveis": 4
   }
