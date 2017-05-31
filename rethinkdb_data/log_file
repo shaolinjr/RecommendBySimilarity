@@ -1,0 +1,28 @@
+2017-05-30T13:58:16.008549000 0.228647s notice: Recursively removing directory /Users/arthurpires/Documents/Development/Jupyter/Ranking/rethinkdb_data/tmp
+2017-05-30T13:58:16.011522000 0.231623s notice: Initializing directory /Users/arthurpires/Documents/Development/Jupyter/Ranking/rethinkdb_data
+2017-05-30T13:58:16.011618000 0.231716s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/Users/arthurpires/Documents/Development/Jupyter/Ranking/rethinkdb_data' did not already exist or is empty.)
+2017-05-30T13:58:16.011648000 0.231745s notice: Running rethinkdb 2.3.5 (CLANG 8.0.0 (clang-800.0.38))...
+2017-05-30T13:58:16.023464000 0.243572s notice: Running on Darwin 16.5.0 x86_64
+2017-05-30T13:58:16.023544000 0.243641s notice: Loading data from directory /Users/arthurpires/Documents/Development/Jupyter/Ranking/rethinkdb_data
+2017-05-30T13:58:16.156838000 0.376936s info: Automatically using cache size of 157 MB
+2017-05-30T13:58:16.157298000 0.377395s notice: Listening for intracluster connections on port 29015
+2017-05-30T13:58:16.160229000 0.380327s notice: Listening for client driver connections on port 28015
+2017-05-30T13:58:16.160467000 0.380565s notice: Listening for administrative HTTP connections on port 8080
+2017-05-30T13:58:16.160472000 0.380569s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2017-05-30T13:58:16.160477000 0.380575s notice: Listening on driver addresses: 127.0.0.1, ::1
+2017-05-30T13:58:16.160479000 0.380577s notice: Listening on http addresses: 127.0.0.1, ::1
+2017-05-30T13:58:16.160483000 0.380581s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2017-05-30T13:58:16.160488000 0.380585s notice: Server ready, "Arthurs_MacBook_Pro_2_local_mrf" 7b61fad1-d01b-49be-b6a6-76b8776f132e
+2017-05-30T14:01:20.256445000 184.466660s info: Table 34009730-363c-43e1-a5b3-4e9093e18060: Starting a new Raft election for term 1.
+2017-05-30T14:01:20.256915000 184.467131s info: Table 34009730-363c-43e1-a5b3-4e9093e18060: Added replica on this server.
+2017-05-30T14:01:20.284182000 184.494398s info: Table 34009730-363c-43e1-a5b3-4e9093e18060: This server is Raft leader for term 1. Latest log index is 0.
+2017-05-30T14:16:48.942257000 1113.913417s notice: Removing file /Users/arthurpires/Documents/Development/Jupyter/Ranking/rethinkdb_data/34009730-363c-43e1-a5b3-4e9093e18060
+2017-05-30T14:16:48.942280000 1113.913440s info: Table 34009730-363c-43e1-a5b3-4e9093e18060: Deleted the table.
+2017-05-30T14:17:00.844629000 1125.815447s info: Table fa13e1ff-3c77-4c24-9760-4175378a15ce: Starting a new Raft election for term 1.
+2017-05-30T14:17:00.844721000 1125.815538s info: Table fa13e1ff-3c77-4c24-9760-4175378a15ce: Added replica on this server.
+2017-05-30T14:17:00.863401000 1125.834219s info: Table fa13e1ff-3c77-4c24-9760-4175378a15ce: This server is Raft leader for term 1. Latest log index is 0.
+2017-05-31T00:06:21.690157000 21411.283608s notice: Server got SIGINT from pid 7538, uid 501; shutting down...
+2017-05-31T00:06:21.690286000 21411.283735s notice: Shutting down client connections...
+2017-05-31T00:06:21.690875000 21411.284324s notice: All client connections closed.
+2017-05-31T00:06:21.690883000 21411.284331s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2017-05-31T00:06:21.697158000 21411.290606s notice: Storage engine shut down.
