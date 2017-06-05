@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Usuario</title>
+    <style type="text/css">
+      *{
+        margin:0;
+        font-family: sans-serif;
+        font-weight: 400;
+      }
+      .wrapper{
+        width: 100%;
+        height: 100%;
+        display:flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        padding: 10px;
+        position: absolute;
+      }
+      .item {
+        min-width: 200px;
+        height: auto;
+        border: 1px solid #444;
+        border-radius :6px;
+        /*background: #c6c6c6;*/
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        flex-direction: column;
+        margin-right: 10px;
+        margin-bottom: 10px;
+        padding: 10px;
+      }
+
+      h2,h3,ul{
+        margin-bottom: 15px;
+      }
+      h3{
+        align-self: center;
+      }
+      ul{
+        list-style: none;
+        padding: 0px;
+      }
+      li{
+        display: inline-block;
+        margin-right: 5px;
+
+      }
+
+      hr{
+        border: 0px;
+        background-color: #444;
+        box-shadow: none;
+        height: 1px;
+        width: 100%;
+        position:relative;
+      }
+      span{
+        font-weight: 300;
+        font-size: 0.9em;
+      }
+
+    </style>
+  </head>
+  <body>
+    <div class="wrapper">
+      {% if user %}
+        {% for u in  user[:10]%}
+        <div class="item">
+          <h3>ID: <span>{{u.user_id}}</span></h3>
+          <!-- <hr> -->
+          <h2>Tipo: <span>{{u.tipo_user}}</span></h2>
+          <!-- <hr> -->
+          <h2>Habilidades:</h2>
+          <ul>
+          {% for skill in u.habilidades%}
+
+            <li><span>{{skill}}</span></li>
+
+          {% endfor %}
+          </ul>
+          <!-- <hr> -->
+          <h2>Segmento: <span>{{ u.segmento }}</span></h2>
+          <!-- <hr> -->
+          <h2>Horas: <span>{{ u.horas_disponiveis }}</span></h2>
+        </div>
+        {% endfor %}
+      {% else %}
+      <div class="item">
+        <h1>Não encontramos esse usuario!</h1>
+      </div>
+      {% endif %}
+
+    </div>
+
+  </body>
+</html>
