@@ -65,3 +65,22 @@
 2017-06-04T23:04:33.606959000 2111.755736s notice: All client connections closed.
 2017-06-04T23:04:33.606965000 2111.755742s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
 2017-06-04T23:04:33.610739000 2111.759516s notice: Storage engine shut down.
+2017-06-06T21:23:10.430338000 0.058041s notice: Running rethinkdb 2.3.5 (CLANG 8.0.0 (clang-800.0.38))...
+2017-06-06T21:23:10.441769000 0.069468s notice: Running on Darwin 16.5.0 x86_64
+2017-06-06T21:23:10.442242000 0.069941s notice: Loading data from directory /Users/arthurpires/Documents/Development/Jupyter/Ranking/rethinkdb_data
+2017-06-06T21:23:10.508418000 0.136116s info: Automatically using cache size of 1014 MB
+2017-06-06T21:23:10.509285000 0.136983s notice: Listening for intracluster connections on port 29015
+2017-06-06T21:23:10.531093000 0.158791s notice: Listening for client driver connections on port 28015
+2017-06-06T21:23:10.531246000 0.158944s notice: Listening for administrative HTTP connections on port 8080
+2017-06-06T21:23:10.531249000 0.158947s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2017-06-06T21:23:10.531263000 0.158960s notice: Listening on driver addresses: 127.0.0.1, ::1
+2017-06-06T21:23:10.531265000 0.158963s notice: Listening on http addresses: 127.0.0.1, ::1
+2017-06-06T21:23:10.531267000 0.158964s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2017-06-06T21:23:10.531269000 0.158966s notice: Server ready, "Arthurs_MacBook_Pro_2_local_mrf" 7b61fad1-d01b-49be-b6a6-76b8776f132e
+2017-06-06T21:23:12.166284000 1.793870s info: Table fa13e1ff-3c77-4c24-9760-4175378a15ce: Starting a new Raft election for term 4.
+2017-06-06T21:23:12.194432000 1.822018s info: Table fa13e1ff-3c77-4c24-9760-4175378a15ce: This server is Raft leader for term 4. Latest log index is 10.
+2017-06-06T22:03:27.910557000 2417.420900s notice: Server got SIGINT from pid 7538, uid 501; shutting down...
+2017-06-06T22:03:27.910693000 2417.421036s notice: Shutting down client connections...
+2017-06-06T22:03:27.910847000 2417.421190s notice: All client connections closed.
+2017-06-06T22:03:27.910851000 2417.421193s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2017-06-06T22:03:27.919295000 2417.429639s notice: Storage engine shut down.
