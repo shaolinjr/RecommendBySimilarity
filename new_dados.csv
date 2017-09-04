@@ -1,0 +1,139 @@
+user_id,tipo_user,habilidades,segmento,horas_disponiveis
+0,startup,"['python', 'php', 'js', 'scrum']",fintech,6
+1,user,"['python', 'js', 'illustrator']",edtech,8
+2,startup,"['laravel', 'php', 'js', 'html']",biotech,4
+3,startup,"['scrum', 'laravel', 'angular', 'html']",adtech,6
+4,startup,"['js', 'html', 'css']",adtech,8
+5,startup,"['js', 'angular', 'ionic', 'html', 'css']",fintech,4
+6,startup,"['php', 'laravel', 'scrum', 'js', 'html']",fintech,4
+7,user,"['js', 'angular', 'ionic', 'html', 'css']",edtech,5
+8,startup,"['js', 'html', 'css', 'illustrator']",edtech,5
+9,startup,"['scrum', 'laravel', 'angular', 'html']",healthtech,8
+10,user,"['ionic', 'js', 'html', 'css', 'scss']",healthtech,6
+11,user,"['js', 'angular', 'ionic', 'html']",edtech,6
+12,user,"['big-data', 'machine-learning', 'python']",fintech,4
+13,user,"['scikit-learn', 'python', 'html', 'js']",fintech,8
+14,user,"['laravel', 'php', 'js', 'css', 'html']",fintech,6
+15,user,"['machine-learning', 'ionic', 'js', 'php']",adtech,6
+16,user,"['ionic', 'js', 'html', 'css', 'scss', 'angular']",adtech,6
+17,user,"['angular', 'js', 'html', 'css', 'illustrator']",edtech,6
+18,user,"['python', 'php', 'js', 'html', 'css']",edtech,4
+19,user,"['js', 'html', 'css', 'ionic', 'photoshop']",edtech,4
+20,startup,"['big-data', 'machine-learning', 'python']",biotech,4
+21,startup,"['big-data', 'machine-learning', 'python']",biotech,4
+22,startup,"['scikit-learn', 'python', 'html', 'js']",healthtech,8
+23,startup,"['angular', 'js', 'html', 'css']",adtech,4
+24,startup,"['ionic', 'js', 'html', 'css', 'scss']",biotech,6
+25,startup,"['scikit-learn', 'python', 'html', 'js']",healthtech,8
+26,user,"['python', 'php', 'js', 'html', 'css', 'scikit-learn']",healthtech,4
+27,user,"['big-data', 'machine-learning', 'scikit-learn']",healthtech,8
+28,user,"['html', 'php', 'python', 'css']",biotech,4
+29,startup,"['ionic', 'angular', 'js', 'html', 'css']",biotech,4
+30,startup,"['js', 'html', 'css', 'ionic']",adtech,4
+31,startup,"['big-data', 'machine-learning', 'python']",fintech,5
+32,startup,"['python', 'php', 'js', 'html', 'css', 'scikit-learn']",fintech,5
+33,startup,"['scikit-learn', 'python', 'html', 'js']",edtech,6
+34,startup,"['html', 'css', 'photoshop', 'illustrator']",healthtech,6
+35,user,"['ionic', 'angular', 'js', 'html', 'css']",healthtech,8
+36,user,"['python', 'html', 'scikit-learn', 'machine-learning']",healthtech,8
+37,user,"['photoshop', 'illustrator', 'html', 'css']",biotech,4
+38,startup,"['marketing-digital', 'cakephp', 'seo', 'illustrator', 'php']",fashiontech,4
+39,startup,"['python', 'seo', 'js', 'illustrator']",fintech,4
+40,user,[''],healthtech,6
+41,startup,['illustrator'],biotech,6
+42,user,[''],agritech,5
+43,user,[''],biotech,6
+44,startup,"['scss', 'branding', 'react', 'marketing-digital']",agritech,4
+45,startup,['laravel'],biotech,5
+46,startup,"['scss', 'gestao-projetos', 'big-data', 'seo']",edtech,5
+47,user,['gestao-projetos'],fintech,5
+48,user,"['html', 'css', 'branding', 'laravel', 'angular']",biotech,8
+49,user,['big-data'],fashiontech,8
+50,startup,[''],healthtech,8
+51,startup,['html'],edtech,5
+52,startup,"['scss', 'photoshop', 'illustrator']",fintech,6
+53,startup,"['marketing-digital', 'cakephp', 'angular', 'ionic', 'scikit-learn']",fintech,8
+54,user,"['scss', 'ionic', 'laravel']",fintech,6
+55,user,"['photoshop', 'react', 'marketing-digital', 'ionic']",fintech,8
+56,user,"['react', 'photoshop', 'seo']",biotech,5
+57,user,"['seo', 'illustrator']",fintech,4
+58,user,['js'],healthtech,8
+59,user,"['machine-learning', 'angular']",adtech,8
+60,user,"['scss', 'gestao-projetos', 'marketing-digital', 'cakephp']",healthtech,8
+61,user,"['angular', 'seo', 'ionic', 'react', 'photoshop']",edtech,6
+62,startup,['css'],healthtech,8
+63,user,[''],fintech,8
+64,startup,"['angular', 'photoshop', 'html']",healthtech,4
+65,startup,[''],healthtech,6
+66,user,[''],adtech,8
+67,user,"['php', 'marketing-digital']",edtech,8
+68,startup,"['python', 'branding', 'illustrator', 'ionic']",healthtech,6
+69,startup,[''],healthtech,6
+70,startup,"['react', 'angular', 'ionic', 'cakephp']",biotech,8
+71,user,"['gestao-projetos', 'photoshop', 'css', 'laravel', 'python']",edtech,6
+72,startup,[''],edtech,6
+73,startup,"['laravel', 'ionic', 'machine-learning']",adtech,6
+74,startup,[''],fintech,5
+75,startup,"['big-data', 'illustrator', 'scikit-learn', 'css']",biotech,4
+76,startup,[''],fintech,6
+77,user,['ionic'],biotech,8
+78,startup,"['angular', 'scss', 'marketing-digital']",agritech,8
+79,user,[''],edtech,4
+80,startup,"['scikit-learn', 'scrum', 'gestao-projetos']",adtech,6
+81,startup,['css'],healthtech,8
+82,user,[''],agritech,8
+83,startup,"['big-data', 'cakephp', 'scss', 'machine-learning', 'ionic']",agritech,5
+84,startup,"['php', 'branding', 'js', 'react']",fintech,8
+85,user,"['scss', 'ionic', 'angular', 'react']",fashiontech,5
+86,user,"['laravel', 'marketing-digital', 'photoshop', 'seo']",fashiontech,8
+87,user,[''],adtech,6
+88,user,"['branding', 'machine-learning', 'marketing-digital', 'cakephp', 'css']",fintech,5
+89,startup,"['machine-learning', 'marketing-digital', 'python']",agritech,6
+90,startup,[''],fashiontech,6
+91,startup,"['js', 'python', 'react', 'marketing-digital', 'ionic']",biotech,5
+92,user,['css'],adtech,8
+93,user,['python'],fintech,5
+94,user,['cakephp'],biotech,4
+95,user,"['photoshop', 'big-data', 'machine-learning']",biotech,5
+96,user,"['angular', 'css', 'laravel', 'machine-learning', 'php']",edtech,4
+97,user,"['machine-learning', 'react', 'seo', 'css', 'html']",fashiontech,4
+98,startup,['branding'],edtech,6
+99,user,"['seo', 'photoshop', 'cakephp', 'ionic']",adtech,6
+100,startup,"['react', 'gestao-projetos', 'css']",fashiontech,6
+101,startup,"['laravel', 'js', 'branding', 'cakephp', 'react']",edtech,8
+102,startup,"['js', 'illustrator', 'php', 'scrum']",agritech,6
+103,user,"['react', 'scikit-learn']",biotech,6
+104,startup,"['ionic', 'html']",edtech,5
+105,startup,"['machine-learning', 'js', 'scss', 'photoshop', 'laravel']",biotech,5
+106,user,"['css', 'branding', 'scss']",adtech,4
+107,startup,[''],biotech,4
+108,startup,"['js', 'scrum']",healthtech,8
+109,user,"['scikit-learn', 'seo']",healthtech,8
+110,user,"['branding', 'machine-learning']",fintech,4
+111,user,"['react', 'html', 'css', 'js', 'machine-learning']",fintech,5
+112,user,['react'],fintech,6
+113,startup,"['scikit-learn', 'scrum']",edtech,5
+114,user,[''],fashiontech,4
+115,user,[''],biotech,6
+116,user,"['photoshop', 'marketing-digital', 'scikit-learn', 'illustrator', 'react']",fintech,5
+117,startup,"['illustrator', 'html', 'laravel', 'angular', 'scss']",edtech,8
+118,user,"['angular', 'scss', 'branding', 'cakephp']",adtech,5
+119,user,"['php', 'css', 'angular', 'html']",fashiontech,4
+120,startup,"['laravel', 'big-data']",biotech,6
+121,user,"['html', 'marketing-digital']",healthtech,6
+122,user,[''],healthtech,4
+123,user,"['cakephp', 'scikit-learn', 'ionic']",adtech,5
+124,user,"['python', 'react', 'gestao-projetos', 'laravel']",fintech,5
+125,startup,"['photoshop', 'js', 'seo', 'big-data']",edtech,5
+126,startup,"['css', 'php', 'angular', 'machine-learning', 'branding']",biotech,6
+127,startup,"['js', 'scss']",fashiontech,6
+128,user,"['scrum', 'ionic']",fashiontech,8
+129,startup,['css'],healthtech,4
+130,user,"['scrum', 'photoshop', 'angular']",fashiontech,5
+131,user,['ionic'],healthtech,4
+132,startup,['css'],fintech,8
+133,user,"['marketing-digital', 'css', 'machine-learning']",fashiontech,5
+134,user,"['branding', 'php', 'cakephp', 'seo', 'ionic']",healthtech,6
+135,user,"['js', 'big-data', 'angular']",fintech,4
+136,startup,"['machine-learning', 'php', 'cakephp']",adtech,8
+137,user,"['seo', 'angular', 'marketing-digital', 'ionic']",healthtech,4
